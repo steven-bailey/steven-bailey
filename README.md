@@ -3,7 +3,19 @@
 I'm using badges from SkillIcons for technology stuff: https://github.com/tandpfun/skill-icons
 -->
 #### Things that take the majority of my time:
+[![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://angular.io/)
+[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)
+[![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/about)
+[![Powershell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+<!-- This could've all been this one line, but I like individual links to the technology sites themselves
 [![Getting the bulk of my time:](https://skillicons.dev/icons?i=dotnet,cs,azure,elasticsearch,ts,js,nodejs,powershell,visualstudio,vscode)](https://skillicons.dev)
+-->
 
 #### Things that I wish got more of my time:
 [![I'd rather spend time on:](https://skillicons.dev/icons?i=angular,react,electron,go,docker,kubernetes,kafka,redis,mongodb)](https://skillicons.dev)
