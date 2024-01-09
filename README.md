@@ -7,6 +7,9 @@ I'm using badges from SkillIcons for technology stuff: https://github.com/tandpf
 
 #### Things that I wish got more of my time:
 [![I'd rather spend time on:](https://skillicons.dev/icons?i=angular,react,electron,go,docker,kubernetes,kafka,redis,mongodb)](https://skillicons.dev)
+
+#### If I'm not working, I may be here:
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 <!--
 **steven-bailey/steven-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
