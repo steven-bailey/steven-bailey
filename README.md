@@ -1,9 +1,10 @@
 ### 👋 Hi, I'm Steve, a Software Architect and full stack developer in North Carolina, USA
 
 #### Things that take the majority of my time:
-[![Getting the bulk of my time:](https://skillicons.dev/icons?i=dotnet,cs,azure,js,nodejs,powershell&theme=light)](https://skillicons.dev)
+[![Getting the bulk of my time:](https://skillicons.dev/icons?i=dotnet,cs,azure,elasticsearch,ts,js,nodejs,powershell,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
-
+#### Things that I wish got more of my time:
+[![I'd rather spend time on:](https://skillicons.dev/icons?i=angular,react,electron,go,docker,kubernetes,kafka,redis,mongodb,&theme=light)](https://skillicons.dev)
 <!--
 **steven-bailey/steven-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
