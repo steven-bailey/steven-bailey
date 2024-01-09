@@ -5,7 +5,7 @@ I'm using badges from SkillIcons for technology stuff: https://github.com/tandpf
 #### Things that take the majority of my time:
 [![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://angular.io/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/en-us/)
 [![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
