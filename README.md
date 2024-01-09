@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Steve, a Software Architect and full stack developer in North Carolina, USA
 <!--
-I'm using badges from here for technology stuff: https://github.com/tandpfun/skill-icons
+I'm using badges from SkillIcons for technology stuff: https://github.com/tandpfun/skill-icons
 -->
 #### Things that take the majority of my time:
 [![Getting the bulk of my time:](https://skillicons.dev/icons?i=dotnet,cs,azure,elasticsearch,ts,js,nodejs,powershell,visualstudio,vscode)](https://skillicons.dev)
