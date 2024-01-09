@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm Steve, a Software Architect and full stack developer in North Carolina, USA
+
+[![Getting the bulk of my time:](https://skillicons.dev/icons?i=dotnet,cs,azure,js,nodejs,powershell&theme=light)](https://skillicons.dev)
+
 
 <!--
 **steven-bailey/steven-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
