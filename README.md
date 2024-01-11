@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Steve, a Software Architect and full stack developer in North Carolina, USA
+![Header](./header.png)
+### 👋 Hi, I'm Steve.  Welcome to my profile.
 <!--
 I'm using badges from SkillIcons for technology stuff: https://github.com/tandpfun/skill-icons
 -->
